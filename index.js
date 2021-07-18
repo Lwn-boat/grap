@@ -1,7 +1,7 @@
 //ログイン処理
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const token = 'ODY1ODg2OTYzMTIzMjI0NTg2.YPKiEw.2ICnnkc7KJpt2KNdiQ6ClFpaMEE';
+const token = '';
 const KeepAlive = require('./server')
 const moment = require('moment');
 const slotItems = ["🍇", "🍉", "🍊", "🍎", "🎰", "🍓", "🍒"];
